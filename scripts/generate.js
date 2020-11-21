@@ -41,7 +41,6 @@ const transformSoft = theme => {
     for (const key of Object.keys(soft.colors)) {
         if (brightColors.includes(soft.colors[key])) {
             soft.colors[key] = tinycolor(soft.colors[key])
-                .desaturate(20)
                 .toHexString();
         }
     }
