@@ -17,6 +17,7 @@ dracula:
     - &SELECTION '#44475A'
     - &COMMENT   '#6272A4'
     - &CYAN      '#8BE9FD'
+    - &DCYAN     '#80CBC4'
     - &GREEN     '#50FA7B'
     - &ORANGE    '#FFB86C'
     - &PINK      '#FF79C6'
@@ -150,8 +151,8 @@ colors:
   activityBar.border: *BORDER                                                   # Activity Bar border color with the Side Bar
   activityBar.activeBorder: *WHITE                                              # Activity Bar indicator color
   activityBar.activeBackground:                                                 # Activity Bar indicator background color
-  activityBarBadge.background: *WHITE                                           # Activity notification badge background color
-  activityBarBadge.foreground: *FG                                              # Activity notification badge foreground color
+  activityBarBadge.background: *DCYAN                                           # Activity notification badge background color
+  activityBarBadge.foreground: *LGRAY                                              # Activity notification badge foreground color
 
   # Side Bar
   sideBar.background: *BGDark                                                   # Side Bar background color
