@@ -16,14 +16,6 @@
   "maintainers": [
     "Derek P Sifford <dereksifford@gmail.com>"
   ],
-  "contributors": [
-    "Krzysztof Wisznarewski",
-    "Daniel Ramos",
-    "Eric Jackson",
-    "Elliott Pogue",
-    "Ajit Singh",
-    "Teddy Bradford"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/caumeira/dark-material-dracula.git"
