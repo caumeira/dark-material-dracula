@@ -2,3 +2,5 @@ node_modules/
 /theme/
 /tests/
 bin/
+
+*:[Zz]one.Identifier
